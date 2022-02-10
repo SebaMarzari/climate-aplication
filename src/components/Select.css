@@ -1,0 +1,11 @@
+.custom-select {
+    background-color: #858585;
+    color: #fff;
+    text-align-last: center;
+    border: #D5C3C0;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;    
+    outline: 0;
+}
